@@ -1,0 +1,32 @@
+# Personal context — never commit
+context/resume.md
+context/profile.md
+context/bank.md
+context/state.md
+context/sources.md
+
+# Personal documents
+cover-letters/
+resumes/
+
+# Generated feed data
+feed-agent/seen.json
+feed-agent/today.json
+feed-agent/run.log
+feed-agent/feed.md
+feed-agent/archive/
+feed-agent/learnings.md
+feed/feed.md
+feed/archive/
+
+# Python
+feed-agent/.venv/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.obsidian/
+
+# Claude local settings
+.claude/settings.local.json
